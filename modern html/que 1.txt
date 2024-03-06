@@ -1,0 +1,17 @@
+features of html5
+
+1)Semantic Elements:
+
+Introduces new semantic elements like <header>, <footer>, <nav>, <article>, <section>, and <aside> to provide better structure to web documents.
+
+2)Audio and Video Support:
+
+Native support for embedding audio and video elements using <audio> and <video> tags, reducing the reliance on third-party plugins like Flash.
+
+3)Canvas Element:
+
+Introduces the <canvas> element for drawing graphics, charts, and animations directly within the browser using JavaScript.
+
+4)Improved Forms:
+
+New input types, such as <input type="date">, <input type="email">, <input type="url">, and more, making it easier to capture specific types of user input.
